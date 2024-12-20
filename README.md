@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a 20 year old coding enthusiast with some knowledge in Machine Learning!
+
 <!--
 **afnancodebase/afnancodebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
